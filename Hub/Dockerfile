@@ -6,7 +6,7 @@
 
 # !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-FROM xuli/selenium-base:3.3.1
+FROM xuli/selenium-base
 
 MAINTAINER gingkooxu <505179564@qq.com>
 
