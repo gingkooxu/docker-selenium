@@ -1,5 +1,5 @@
 FROM ubuntu:16.04
-MAINTAINER baozihda <baozihda88@126.com>
+MAINTAINER gingkooxu <505179564@qq.com>
 
 # 使用root用户 
 USER root
