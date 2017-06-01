@@ -2,7 +2,7 @@
 # NOTE: DO *NOT* EDIT THIS FILE.  IT IS GENERATED.
 # PLEASE UPDATE Dockerfile.txt INSTEAD OF THIS FILE
 # !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-FROM gingkooxu/selenium-node-base:3.3.1
+FROM xuli/selenium-node-base:3.3.1
 MAINTAINER gingkooxu <505179561@qq.com>
 
 USER root
