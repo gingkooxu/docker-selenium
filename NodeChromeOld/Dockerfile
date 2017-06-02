@@ -2,8 +2,8 @@
 # NOTE: DO *NOT* EDIT THIS FILE.  IT IS GENERATED.
 # PLEASE UPDATE Dockerfile.txt INSTEAD OF THIS FILE
 # !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-FROM baozhida/selenium-node-base:3.3.1
-MAINTAINER baozihda <baozihda88@126.com>
+FROM xuli/selenium-node-base:3.3.1
+MAINTAINER gingkooxu <505179561@qq.com>
 
 USER root
 
